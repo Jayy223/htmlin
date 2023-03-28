@@ -1,0 +1,118 @@
+/*
+body{
+  padding: 25px;
+} */
+.title{
+	color:#5C6AC4;
+}
+.center {
+  margin:auto;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  padding: 10px;
+}
+html, body { height: 100%; }
+.red{
+  color:red;
+}
+.parent {
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+h1{
+  text-align: center;
+}
+body.Asus{
+  background-color:#F2F4EC;
+  margin:0
+  padding:0
+}
+body.paskaita{
+  background-color:black;
+  margin:0
+  padding:0
+}
+.sangria{
+  background-color: #180404;
+}
+.tabeldiv{
+  margin-top:300px;
+}
+.textdiv{
+  margin-top:40px;
+}
+table{
+  table-layout:auto;
+  width:100%;
+  border-collapse:collapse;
+}
+table.procon{
+  width:50%;
+  height:200px;
+  background-color:#ffebb6;
+}
+.thed{
+  background-color: black;
+}
+.thedpara{
+  color:white
+}
+tr{
+  margin:auto;
+  text-align:center;
+}
+.kompTR{
+  background-color:#fe8b3e;
+  border-style: hidden!important;
+}
+tr.trmatavimain td {
+ border-top: 1px solid black;
+ border-bottom:1px solid gray;
+}
+tr.trmatavimai td {
+  border-bottom:1px solid gray;
+}
+span{
+  padding-left:1rem;
+}
+a:link{
+  color:green;
+}
+a:visited{
+  color:blue;
+}
+table.ziaurus td{
+  vertical-align:top;
+  text-align:left;
+  color:white;
+  border: 1px solid white;
+  border-collapse:collapse;
+  vertical-align: top;
+}
+.y{color:yellow;}
+.b{color:blue;}
+.xx{background-color:white
+  color:black;}
+
+table.bugatti td{
+  /* width:100%; */
+  vertical-align:top;
+  text-align:left;
+  color:white;
+  border: 1px solid white;
+  border-collapse:collapse;
+}
